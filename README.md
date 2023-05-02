@@ -1,6 +1,7 @@
 # Facial Recognition - Python
 Distributed System Project
 
+## ![Facial Recogntion](https://user-images.githubusercontent.com/62666691/235709950-fb454df4-7c8d-47ce-b7c4-76640d19f639.png)
 
 ## About
 This project is a Flask application that uses the face recognition library to detect and recognize faces in real-time from a video stream. The application loads known faces from images stored in a directory, and compares them to faces detected in the video stream to determine if they match. If a match is found, the name of the known person is displayed on the video stream along with a confidence score.
