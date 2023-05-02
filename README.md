@@ -18,3 +18,12 @@ The project is useful for a variety of applications, such as security systems, a
 * [OpenCV](https://opencv.org/)
 * [Waitress](https://flask.palletsprojects.com/en/2.2.x/deploying/waitress/)
 
+
+### Install and Launch
+
+```
+pip install requirements.txt
+```
+```
+python server.py
+```
