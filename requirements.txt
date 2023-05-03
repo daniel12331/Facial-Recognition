@@ -4,3 +4,4 @@ pip install numpy
 pip install socketio
 pip install Flask-SocketIO
 pip install waitress
+pip install cmake dlib==19.22
